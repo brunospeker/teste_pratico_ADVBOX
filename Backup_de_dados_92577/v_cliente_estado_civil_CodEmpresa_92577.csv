@@ -1,0 +1,8 @@
+codigo;data_cadastro;ativo;sigla;descricao;cod_empresa
+1;2012-06-01 03:10:08;1;SO;Solteiro(a);0
+2;2012-06-01 03:10:15;1;CA;Casado(a);0
+3;2012-06-01 03:10:21;1;DV;Divorciado(a);0
+4;2012-06-01 03:10:27;1;SE;Separado(a) de Fato;0
+5;2012-06-01 03:10:35;1;SJ;Separado(a) Judicialmente;0
+6;2012-06-01 03:10:40;1;VI;Viúvo(a);0
+7;2012-06-01 03:10:49;1;UE;União Estável;0

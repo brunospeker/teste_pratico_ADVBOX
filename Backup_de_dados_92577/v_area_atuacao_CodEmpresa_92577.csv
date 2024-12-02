@@ -1,0 +1,28 @@
+codigo;descricao;ativo;cod_empresa;cod_integra_schema
+1;Direito Cível;1;0;0
+15;Direito Econômico;1;0;0
+14;Direito Acidentário;1;0;0
+2;Direito Comercial;1;0;0
+16;Direito Empresarial;1;0;0
+3;Direito Família;1;0;0
+17;Direito Constitucional;1;0;0
+4;Direito Tributário;1;0;0
+18;Direito do Estado;1;0;0
+5;Direito Previdenciário;1;0;0
+19;Direito Minerário;1;0;0
+6;Direito Administrativo;1;0;0
+7;Direito Penal;1;0;0
+8;Direito Ambiental;1;0;0
+9;Direito Eleitoral;1;0;0
+10;Direito do Trabalho;1;0;0
+11;Direito Militar;1;0;0
+12;Execução Fiscal;1;0;0
+13;Direito do Consumidor;1;0;0
+100000000;Direito Imobiliário;1;0;0
+100000001;Direito das Sucessões;1;0;0
+100000002;Direito de Trânsito;1;0;0
+100000003;Direito de Energia;1;0;0
+100000004;Direito Bancário;1;0;0
+100000005;Direito da Infância e da Juventude;1;0;0
+100000006;Direito Internacional;1;0;0
+100000007;Direito Digital;1;0;0

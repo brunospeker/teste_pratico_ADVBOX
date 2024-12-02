@@ -1,0 +1,9 @@
+codigo;descricao;data_cadastro;ativo;cod_empresa;migracao;migracao2;migracao3
+1;Aguardando entrega ao destinatário;2010-10-03 17:01:07;1;0;;;
+4;Entregue ao destinatário;2010-10-03 17:47:14;1;0;;;
+5;Recebido pelo destinatário;2010-10-03 17:47:17;1;0;;;
+6;Devolvido pelo destinatário;2010-10-03 17:47:18;1;0;;;
+7;Não recebido pelo destinatário;2010-10-03 17:47:19;1;0;;;
+8;Destinatário ausente;2010-10-03 17:47:20;1;0;;;
+9;Destinatário não encontrado/inexistente;2010-10-03 17:48:02;1;0;;;
+10;Rejeitado pelo Destinatário;2010-10-03 17:48:10;1;0;;;

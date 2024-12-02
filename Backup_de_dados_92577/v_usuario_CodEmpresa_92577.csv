@@ -1,0 +1,14 @@
+id;usuario;senha;email_velho;nome;apelido;data_cadastro;data_atualizacao;data_ativo;data_inativo;dia_nascimento;mes_nascimento;ativo;cod_empresa;cod_usuario_nivel;cod_integra_schema;cod_cor_sistema;cod_modulo_principal;status;mensagem_pessoal;img;cod_controle_acesso_grupo;cod_tema_sistema;codigo;modelo_agenda;agrupamento_imail;email;flag_alteracao_cor_integra;cod_usuario_unico;migracao2;migracao3;migracao;google_agenda_access_token;google_agenda_refresh_token;bool_nao_exibir_tour_cnj;horario_personalizado
+302720;candidato1@advbox;c1;;Candidato 1;Beltrano 1;22/06/2012 12:57;;;;3;4;1;92577;6965;1;12;132;;;;0;9;302720;2;1;c1@advbox.com.br;S;;;;;;;;f
+360111;candidato2@advbox;c2;;Candidato 2;Beltrano 2;17/12/2013 09:35;;;;30;5;2;92577;3;1;22;21;;;;0;6;360111;2;1;c2@advbox.com.br;S;0;;;;;;;f
+100121696;candidato3@advbox;c3;;Candidato 3;Beltrano 3;17/01/2022 10:34;;;;0;0;1;92577;100000818;1;32;132;;;;0;9;100121696;2;1;c3@advbox.com.br;S;;;;;;;;f
+100013302;candidato4@advbox;c4;;Candidato 4;Beltrano 4;04/05/2018 16:49;;;;21;12;2;92577;3;1;22;21;;;;0;6;100013302;2;1;c4@advbox.com.br;S;;;;;;;;f
+559945;candidato5@advbox;c5;;Candidato 5;Beltrano 5;05/04/2017 11:45;;;;0;0;1;92577;9616;1;6;21;;;;0;9;559945;2;1;c5@advbox.com.br;S;;;;;;;;f
+100026144;candidato6@advbox;c6;;Candidato 6;Beltrano 6;27/09/2018 13:27;;;;27;8;1;92577;100000818;1;26;132;;;;0;9;100026144;2;1;c6@advbox.com.br;S;;;;;;;;f
+476917;candidato7@advbox;c7;;Candidato 7;Beltrano 7;21/08/2015 10:36;;;;6;6;1;92577;6926;1;26;132;;;;0;6;476917;2;1;c7@advbox.com.br;S;;;;;;;;f
+100100958;candidato8@advbox;c8;;Candidato 8;Beltrano 8;26/03/2021 19:04;;;;0;0;1;92577;100002839;1;32;132;;;;0;9;100100958;2;1;c8@advbox.com.br;S;;;;;;;;f
+100097650;candidato9@advbox;c9;;Candidato 9;Beltrano 9;19/02/2021 10:29;;;;18;12;1;92577;6926;1;25;132;;;;0;9;100097650;2;1;c9@advbox.com.br;S;;;;;;;;f
+347394;candidato10@advbox;c10;;Candidato 10;Beltrano 10;17/09/2013 10:35;;;;12;6;1;92577;6065;1;27;132;;;;0;9;347394;2;1;c10@advbox.com.br;S;;;;;;;;f
+301340;candidato11@advbox;c11;;Candidato 11;Beltrano 11;09/06/2012 13:54;;;;26;5;1;92577;1;1;22;12;;;;0;6;301340;2;1;c11@advbox.com.br;S;;;;;;;;f
+483765;candidato12@advbox;c12;;Candidato 12;Beltrano 12;30/09/2015 17:32;;;;3;7;1;92577;6926;1;32;132;;;;0;9;483765;2;1;c12@advbox.com.br;S;;;;;;;;f
+100103597;candidato13@advbox;c13;;Candidato 13;Beltrano 13;03/05/2021 11:22;;;;21;8;1;92577;6926;1;29;132;;;;0;9;100103597;2;1;c13@advbox.com.br;S;;;;;;;;f
