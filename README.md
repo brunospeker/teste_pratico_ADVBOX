@@ -57,4 +57,4 @@ Para a parte visual, utilizei:
 
 ## 🎁 Agradecimentos
 
-* Agradeço ao pessoal da ADVBOX pela oportunidade. Espero que gostem!
+* Agradeço a equipe da ADVBOX pela oportunidade. Espero que gostem!
