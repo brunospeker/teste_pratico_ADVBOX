@@ -6,7 +6,7 @@ Teste prático para a vaga de Analista Python Júnior na ADVBOX.
 
 * [Pré-requisitos](#Pré-requisitos)
 * [Inicialização](#Inicialização)
-* [Tecnologias utilizadas](#Tecnologias utilizadas)
+* [Tecnologias utilizadas](#Tecnologias-utilizadas)
 * [Comentários](#Comentários)
 * [Tutorial](#Tutorial)
 * [Agradecimentos](#Agradecimentos)
